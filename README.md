@@ -1,9 +1,6 @@
-### Hi there 👋
-
-**alirezasariri78/alirezasariri78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+  Hi
+  Im Alireza
 - 🔭 I’m currently working on DiskAnalyzor
 - 🌱 I’m currently learning Rust,TypeScript
-- 📫 How to reach me: [My Linkedin](https://www.linkedin.com/in/alireza-sariri-1163aa1b5?originalSubdomain=ir)
+- 📫 How to reach me:
+- [My Linkedin](https://www.linkedin.com/in/alireza-sariri-1163aa1b5?originalSubdomain=ir)
